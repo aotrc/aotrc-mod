@@ -1,0 +1,6 @@
+package io.github.pumptatodevelopment.aotrc;
+
+@Mod(modid = "aotrcm". name = "Attack of The Red Creepers Mod", version = "1.0")
+public class AOTRCMod {
+
+}

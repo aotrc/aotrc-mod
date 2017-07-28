@@ -1,0 +1,11 @@
+[07:28:41] [main/INFO]: Setting user: Player229
+[07:28:42] [Client thread/INFO]: LWJGL Version: 2.9.1
+[07:28:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Attack of The Red Creepers Mod
+[07:28:50] [Sound Library Loader/INFO]: Sound engine started
+[07:28:51] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[07:28:51] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[07:28:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Attack of The Red Creepers Mod
+[07:28:51] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[07:28:51] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[07:28:52] [Sound Library Loader/INFO]: Sound engine started
+[07:29:05] [Client thread/INFO]: Stopping!

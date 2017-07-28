@@ -1,0 +1,11 @@
+package io.github.pumptatodevelopment.aotrc;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid = "aotrcm", name = "Attack of The Red Creepers Mod", version = "1.0")
+public class AOTRCMod {
+	@EventHandler
+	public void preInit(FMLPreInitializationEvent event) {
+		
+	}
+}
